@@ -1,5 +1,4 @@
 import math
-import random
 from operator import itemgetter
 
 from MyRecommend.IRecommend import IRecommend
